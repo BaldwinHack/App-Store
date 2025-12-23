@@ -1,0 +1,12 @@
+pwa-appstore/
+  index.html
+  app.html
+  styles.css
+  app.js
+  app-detail.js
+  apps.json
+  manifest.webmanifest
+  sw.js
+  icons/
+    icon-192.png
+    icon-512.png
