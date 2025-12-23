@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "id": "mini-notes",
+      "name": "Mini Notes",
+      "category": "Productivity",
+      "version": "1.0.0",
+      "featured": true,
+      "description": "Fast notes with local storage.",
+      "launchUrl": "https://example.com/mini-notes/",
+      "iconText": "N"
+    },
+    {
+      "id": "tap-runner",
+      "name": "Tap Runner",
+      "category": "Games",
+      "version": "0.9.1",
+      "featured": false,
+      "description": "One-thumb runner game.",
+      "launchUrl": "https://example.com/tap-runner/",
+      "iconText": "TR"
+    }
+  ]
+}
